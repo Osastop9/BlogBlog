@@ -6,6 +6,11 @@
         <entry key="app/src/main/res/drawable/botton_border_.xml" value="0.1755" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.28072916666666664" />
         <entry key="app/src/main/res/layout/comment_item_layout.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/fragment_comments.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/fragment_new_comment.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/fragment_new_post.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/fragment_posts.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/post_item_layout.xml" value="0.2947916666666667" />
       </map>
     </option>
   </component>
